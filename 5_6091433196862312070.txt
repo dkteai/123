@@ -1,0 +1,301 @@
+Which of the following process helps in Image enhancement?
+A. Digital Image Processing
+B. Analog Image Processing
+C. Both a and b
+D. None of the above
+ANSWER: D
+
+What are the categories of digital image processing?
+A. Image Enhancement
+B. Image Classification and Analysis
+C. Image Transformation
+D. All of the mentioned
+ANSWER: D
+
+How does picture formation in the eye vary from image formation in a camera?
+A. Fixed focal length
+B. Varying distance between lens and imaging plane
+C. No difference
+D. Variable focal length
+ANSWER: D
+
+Which characteristics are taken together in chromaticity?
+A. Hue and Saturation
+B. Hue and Brightness
+C. Saturation, Hue, and Brightness
+D. Saturation and Brightness
+ANSWER: A
+
+Which of the following statement describe the term pixel depth?
+A. It is the number of units used to represent each pixel in RGB space
+B. It is the number of mm used to represent each pixel in RGB space
+C. It is the number of bytes used to represent each pixel in RGB space
+D. It is the number of bits used to represent each pixel in RGB space
+ANSWER: D
+
+The aliasing effect on an image can be reduced using which of the following methods?
+A. By reducing the high-frequency components of image by clarifying the image
+B. By increasing the high-frequency components of image by clarifying the image
+C. By increasing the high-frequency components of image by blurring the image
+D. By reducing the high-frequency components of image by blurring the image
+ANSWER: D
+
+Which of the following is the first and foremost step in Image Processing?
+A. Image acquisition
+B. Segmentation
+C. Image enhancement
+D. Image restoration
+ANSWER: A
+
+Which of the following is the next step in image processing after compression?
+A. Representation and description
+B. Morphological processing
+C. Segmentation
+D. Wavelets
+ANSWER: B
+
+___________ determines the quality of a digital image.
+A. The discrete gray levels
+B. The number of samples
+C. discrete gray levels & number of samples
+D. None of the mentioned
+ANSWER: C
+
+Image processing involves how many steps?
+A. 7
+B. 8
+C. 13
+D. 10
+ANSWER: D
+
+Which of the following tool is used in tasks such as zooming, shrinking, rotating, etc.?
+A. Filters
+B. Sampling
+C. Interpolation
+D. None of the Mentioned
+ANSWER: C
+
+The effect caused by the use of an insufficient number of intensity levels in smooth areas of a digital image _____________
+A. False Contouring
+B. Interpolation
+C. Gaussian smooth
+D. Contouring
+ANSWER: A
+
+What is the procedure done on a digital image to alter the values of its individual pixels known as?
+A. Geometric Spacial Transformation
+B. Single Pixel Operation
+C. Image Registration
+D. Neighbourhood Operations
+ANSWER: B
+
+Approaches to image processing that work directly on the pixels of incoming image work in ____________
+A. Spatial domain
+B. Inverse transformation
+C. Transform domain
+D. None of the Mentioned
+ANSWER: A
+
+Which of the following in an image can be removed by using a smoothing filter?
+A. Sharp transitions of brightness levels
+B. Sharp transitions of gray levels
+C. Smooth transitions of gray levels
+D. Smooth transitions of brightness levels
+ANSWER: B
+
+Region of Interest (ROI) operations is generally known as _______
+A. Masking
+B. Dilation
+C. Shading correction
+D. None of the Mentioned
+ANSWER: A
+
+Which of the following comes under the application of image blurring?
+A. Image segmentation
+B. Object motion
+C. Object detection
+D. Gross representation
+ANSWER: D
+
+Which of the following filter’s responses is based on the pixels ranking?
+A. Sharpening filters
+B. Nonlinear smoothing filters
+C. Geometric mean filter
+D. Linear smoothing filters
+ANSWER: B
+
+Which of the following illustrates three main types of image enhancing functions?
+A. Linear, logarithmic and power law
+B. Linear, logarithmic and inverse law
+C. Linear, exponential and inverse law
+D. Power law, logarithmic and inverse law
+ANSWER: D
+
+Which of the following is the primary objective of sharpening of an image?
+A. Decrease the brightness of the image
+B. Increase the brightness of the image
+C. Highlight fine details in the image
+D. Blurring the image
+ANSWER: C
+
+________ is the principle objective of Sharpening, to highlight transitions.
+A. Brightness
+B. Pixel density
+C. Composure
+D. Intensity
+ANSWER: D
+
+Which of the following fact is correct for an image?
+A. An image is the multiplication of illumination and reflectance component
+B. An image is the subtraction of reflectance component from illumination component
+C. An image is the subtraction of illumination component from reflectance component
+D. An image is the addition of illumination and reflectance component
+ANSWER: A
+
+Which of the following makes an image difficult to enhance?
+A. Dynamic range of intensity levels
+B. High noise
+C. Narrow range of intensity levels
+D. All of the mentioned
+ANSWER: D
+
+_________ is the process of moving a filter mask over the image and computing the sum of products at each location.
+A. Nonlinear spatial filtering
+B. Convolution
+C. Correlation
+D. Linear spatial filtering
+ANSWER: C
+
+Which of the following is the application of Histogram Equalisation?
+A. Blurring
+B. Contrast adjustment
+C. Image enhancement
+D. None of the Mentioned
+ANSWER: C
+
+____________ filter is known as averaging filters.
+A. Bandpass
+B. Low pass
+C. High pass
+D. None of the Mentioned
+ANSWER: B
+
+What is/are the resultant image of a smoothing filter?
+A. Image with reduced sharp transitions in gray levels
+B. Image with high sharp transitions in gray levels
+C. None of the mentioned
+D. All of the mentioned
+ANSWER: A
+
+___________ is/are the feature(s) of a highpass filtered image.
+A. An overall sharper image
+B. Have less gray-level variation in smooth areas
+C. Emphasized transitional gray-level details
+D. All of the mentioned
+ANSWER: D
+
+Which gray-level transformation increases the dynamic range of gray-level in the image?
+A. Negative transformations
+B. Contrast stretching
+C. Power-law transformations
+D. None of the mentioned
+ANSWER: B
+
+In general, which of the following assures of no ringing in the output?
+A. Gaussian Lowpass Filter
+B. Ideal Lowpass Filter
+C. Butterworth Lowpass Filter
+D. All of the mentioned
+ANSWER: A
+
+The lowpass filtering process can be applied in which of the following area(s)?
+A. The field of machine perception, with application of character recognition
+B. In field of printing and publishing industry
+C. In field of processing satellite and aerial images
+D. All of the mentioned
+ANSWER: D
+
+The Image sharpening in frequency domain can be achieved by which of the following method(s)?
+A. Attenuating the high frequency components
+B. Attenuating the low-frequency components
+C. All of the mentioned
+D. None of the mentioned
+ANSWER: B
+
+Which of the following is a receptor in the retina of human eye?
+A. Rods
+B. Cones
+C. Rods and Cones
+D. Neither Rods nor Cones
+ANSWER: C
+
+The distance between pixels p and q, the pixels have a distance less than or equal to some value of radius r centred at (x,y) is called :
+A. Euclidean distance
+B. City-Block distance
+C. Chessboard distance
+D. None of the Mentioned
+ANSWER: A
+
+What are the names of categories of color image processing?
+A. Full-color and pseudo-color processing
+B. Half-color and full-color processing
+C. Half-color and pseudo-color processing
+D. Pseudo-color and Multi-color processing
+ANSWER: A
+
+What do you mean by tri-stimulus values?
+A. It is the amount of red, green and yellow needed to form any particular color
+B. It is the amount of red, green and indigo needed to form any particular color
+C. It is the amount of red, yellow and blue needed to form any particular color
+D. It is the amount of red, green and blue needed to form any particular color
+ANSWER: D
+
+How many bit RGB color image is represented by full-color image?
+A. 32-bit RGB color image
+B. 24-bit RGB color image
+C. 16-bit RGB color image
+D. 8-bit RGB color image
+ANSWER: B
+
+Which of the following color models are used for color printing?
+A. RGB
+B. CMY
+C. CMYK
+D. CMY and CMYK
+ANSWER: D
+
+Which of the following measures are not used to describe a region?
+A. Mean and median of grey values
+B. Minimum and maximum of grey values
+C. Number of pixels alone
+D. Number of pixels above and below mean
+ANSWER: C
+
+The texture of the region provides measure of which of the following properties?
+A. Smoothness alone
+B. Coarseness alone
+C. Regularity alone
+D. Smoothness, coarseness and regularity
+ANSWER: D
+
+Which of the following techniques is based on the Fourier transform?
+A. Structural
+B. Spectral
+C. Statistical
+D. Topological
+ANSWER: B
+
+How aliasing does corrupts the sampled image?
+A. By introducing additional frequency components to the sampled function
+B. By removing some frequency components from the sampled function
+C. All of the mentioned
+D. None of the mentioned
+ANSWER: A
+
+How can one reduce the aliasing effect on an image?
+A. By reducing the high-frequency components of image by blurring the image
+B. By increasing the high-frequency components of image by blurring the image
+C. By reducing the high-frequency components of image by clarifying the image
+D. By increasing the high-frequency components of image by clarifying the image
+ANSWER: A
+
